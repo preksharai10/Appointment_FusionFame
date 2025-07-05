@@ -41,7 +41,7 @@ const PrivacyPolicy = () => {
         <p style={{ marginBottom: '1rem' }}>
           You have the right to access, update, or delete your personal information. Please contact us at{' '}
           <a href="mailto:support@fusionfamedigital.io" style={{ color: '#295B63', textDecoration: 'underline' }}>
-            support@brandgeek.com
+            support@fusionfamedigital.io
           </a>{' '}
           for assistance.
         </p>
@@ -49,7 +49,7 @@ const PrivacyPolicy = () => {
         <p>
           If you have any questions about this Privacy Policy, please contact us at{' '}
           <a href="mailto:support@fusionfamedigital.io" style={{ color: '#295B63', textDecoration: 'underline' }}>
-            support@brandgeek.com
+            support@fusionfamedigital.io
           </a>.
         </p>
       </div>
